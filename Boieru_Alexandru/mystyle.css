@@ -1,0 +1,67 @@
+#nume 
+   {
+     background-color: 	#808080 ;
+	 text-align: right;
+	 color: #A9A9A9;
+	 border: 7px solid black;
+	 margin 10 px;
+	 font_style: cambria;
+    }
+    .email
+    {
+     color: #858381;
+	 text-align: right;
+	 text-decoration: underline;
+    }
+	h1
+	{
+	 color:#c1bfbe;
+	 text-align:right;
+	 font-weight: bold;
+	 text-indent: 15px;
+	}	
+	h2
+	{
+	 color:#c1bfbe;
+	 text-align:right;
+	 text-decoration: underline;
+	 font-weight: bold;
+	 text-indent: 15px;
+	}
+	h4
+	{
+	 color:#c1bfbe;
+	 text-align: center;
+	 text-decoration: underline;
+	 font-weight: bold;
+	 text-indent: 15px;
+	 
+	}
+	.structura
+	{
+     background-color: #DCDCDC;
+	 border: 2px solid #808080;
+	 margin: 5px;
+	}
+	ul
+	{
+	 list-style-position: inside;
+	 text-align: center;
+	 padding: 10px;
+	}
+	table, th, td
+	{
+     border: 3px solid #8f8f8f;
+     font-size:100%;
+     color: #000000;
+	 text-align: right;
+	 font-weight: bold;
+	 font-style: italic;
+	 background:  #ffffff;
+	 margin: auto;
+	 width="100%";
+	 cellspacing="0";
+	 cellpadding="0";
+	 border-collapse: collapse;
+	 
+	}

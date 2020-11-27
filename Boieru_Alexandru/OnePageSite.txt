@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<style>
+   #nume 
+   {
+     background-color: 	#808080 ;
+	 text-align: right;
+	 color: #bfbfbf;
+	 border: 7px solid black;
+	 margin 10 px;
+	 font_style: cambria;
+    }
+    .email
+    {
+     color: #858381;
+	 text-align: right;
+	 text-decoration: underline;
+    }
+	h2
+	{
+	 color:#c1bfbe;
+	 text-align:right;
+	 text-decoration: underline;
+	 font-weight: bold;
+	 text-indent: 15px;
+	}
+	h4
+	{
+	 color:#c1bfbe;
+	 text-align: center;
+	 text-decoration: underline;
+	 font-weight: bold;
+	 text-indent: 15px;
+	 
+	}
+	.structura
+	{
+     background-color: #f5f5f0;
+	 border: 2px solid #aeae84;
+	 margin: 5px;
+	}
+	ul
+	{
+	 list-style-position: inside;
+	 text-align: center;
+	 padding: 10px;
+	}
+	table, th, td
+	{
+     border 3px solid #8f8f8f;
+     font-size:100%;
+     color: #000000;
+	 text-align:center;
+	 font-weight: bold;
+	 font-style: italic;
+	 background:  #ffffff;
+	 margin: auto;
+	 width="100%";
+	 cellspacing="0";
+	 cellpadding="0";
+	 border-collapse: collapse;
+	 
+	}
+</style>
+<script>
+
+</script>
+<body>
+
+
+<div id="nume">
+   <h2> Boieru Alexandru Șerban </h2>
+</div>
+
+<h3 class="email">serbanboieru@yahoo.com</h3>
+
+<h2>Specificatii tehnice ale statiei principale de lucru </h2>
+
+<table>
+   <tr>
+      <th>Denumire componenta</th>
+	  <th>Producator</th>
+	  <th>Parametrii</th>
+   </tr>       
+   <tr>
+   <th>111</th>
+   <th>222</th>
+   <th>333</th>
+   </tr>
+</table>
+
+<div class="structura">
+    <h2> Structura retelei personale si accesul la internet </h2>
+	
+	
+	<h4> Caracteristicile conexiunii la retea </h4>
+	 <ul text-align: center;>
+	    <li>Adresa MAC: C4-4A-37-BE-61-D0 </li>
+	    <li>Adresa IP: 192.168.1.5 </li>
+	 	<li>Debit la download: 60.59 Mbps </li>
+		<li>Debit la upload: 25.77 Mbps </li>
+     </ul>
+</div>	
+<div>
+
+<h2>Utilizarea resurselor (slideshow)</h2>
+
+</div>
+
+</body>
+ 
+</html>
